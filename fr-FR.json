@@ -1,6 +1,6 @@
 {
   "qor_5A97C3D9_ensure_application_availability" : "ENGLISH CHANGE",
-  "qor_5A97C3DE_application_downtime_applications" : "Les utilisateurs s'attendent à ce que leurs applications stratégiques soient en ligne et performantes à tout moment. Les temps d'arrêt d'application sont affectés par trois facteurs principaux:",
+  "qor_5A97C3DE_application_downtime_applications" : "SECOND ENGLISH CHANGE",
   "qor_5A97C3DE_applications_infrastructure" : "Améliorer la disponibilité des applications affectées par l'infrastructure surchargée ou indisponible.",
   "qor_5A97C3E1_origin_server_capacity" : "Le trafic surcharge la capacité du serveur d'origine, rendant indisponible ou ne répond pas",
   "qor_5A97C3E2_disaster_recovery" : "Manuel, sujette aux erreurs reprise après incident et d'équilibrage de charge en interne résultant des temps d'arrêt ou des coûts d'exploitation élevés",
